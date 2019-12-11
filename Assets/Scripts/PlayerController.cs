@@ -141,6 +141,7 @@ public class PlayerController : MonoBehaviour
     private void GunFire ()
     {
         GameObject myBullet = Instantiate(bullet, bulletPos.position, cameraAim.rotation);
+        gunPart.Play();
     }
 
 }
