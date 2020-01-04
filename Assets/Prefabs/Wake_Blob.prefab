@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4360955665969453747}
   m_Layer: 0
-  m_Name: Wakee_Blob
+  m_Name: Wake_Blob
   m_TagString: Wake
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 4360955666219170017}
   - component: {fileID: 4360955666219170019}
   - component: {fileID: 4360955666219170016}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WakeParticles
   m_TagString: Wake
   m_Icon: {fileID: 0}
